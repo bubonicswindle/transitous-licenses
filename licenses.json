@@ -150,6 +150,12 @@
       "attribution_text": null,
       "url": "https://www.rtd-denver.com/open-records/open-spatial-information/gtfs-realtime-license-agreement"
     }
+    {
+      "identifier": "Metro Transit Data Terms of Use",
+      "name": null,
+      "attribution_text": null,
+      "url": "https://kingcounty.gov/en/dept/metro/rider-tools/mobile-and-web-apps#toc-transit-data-terms-of-use"
+    }
   ],
   "sources": [
     {
@@ -914,5 +920,11 @@
       "url": "https://www.rtd-denver.com/files/gtfs/google_transit.zip",
       "custom_license": "RTD GTFS Realtime License Agreement"
     }
+    {
+    "file": "us-wa_Metro-Transit.gtfs.zip",
+    "spdx": null,
+    "url": "https://api.transitous.org/gtfs/us-wa_Metro-Transit.gtfs.zip",
+    "custom_license": "Metro Transit Data Terms of Use"
+    }   
   ]
 }
